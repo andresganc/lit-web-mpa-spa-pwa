@@ -1,4 +1,12 @@
 
-# LIT WEB - SPA / PWA
+# LIT WEB - WEB SITE / MPA / SPA / PWA
 
-- Sitio web creado con Web Components (Lit), tecnologias SPA y PWA 
+- Sitios web creados con Web Components (Lit)
+
+## LIT WEB SITE
+
+## LIT WEB MPA
+
+## LIT WEB SPA
+
+## LIT WEB PWA
