@@ -1,5 +1,4 @@
 
-# EXERCISES ANDRES - KOTLIN ANDROID
+# LIT WEB - SPA / PWA
 
-
-## TABLE CONTENTS
+- Pagina web creada con Lit (Web Components) y tecnologias SPA y PWA 
